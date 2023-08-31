@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+
+My name is Elvin Li, and I am a second year student at the University of California, San Diego. I am currently double majoring in Mathematics - Computer Science (B.S.), and a Specialization in Machine Learning and Neural Computation (B.S.). Feel free to look through the projects I've created!
 
 <!--
 **ElvinLit/ElvinLit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
