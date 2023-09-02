@@ -1,4 +1,4 @@
-### Hi there!
+### Welcome!
 
 My name is Elvin Li, and I am a second year student at the University of California, San Diego. I am currently double majoring in Mathematics - Computer Science (B.S.), and Specialization in Machine Learning and Neural Computation (B.S.). 
 
