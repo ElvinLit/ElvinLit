@@ -1,6 +1,6 @@
 ### Welcome!
 
-My name is Elvin Li, and I am a Junior student studying Mathematics & Computer Science (B.S.) at UC San Diego. I currently work as an undergraduate researcher in the fields of adversarial machine learning and self-supervised machine learning.  
+My name is Elvin Li, and I am a senior studying Mathematics & Computer Science (B.S.) at UC San Diego. I currently work as an undergraduate researcher in the fields of adversarial machine learning and self-supervised machine learning.  
 
 Website: https://elvinlit.github.io/
 
